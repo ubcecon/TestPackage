@@ -1,0 +1,7 @@
+name = "TestPackage"
+uuid = "96254b58-9ae9-56e1-980d-bc1530f12e8d"
+authors = ["Paul Schrimpf <paul.schrimpf@ubc.ca>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"

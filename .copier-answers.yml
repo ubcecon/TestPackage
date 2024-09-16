@@ -1,0 +1,24 @@
+# Changes here will be overwritten by Copier
+AddAllcontributors: true
+AddCodeOfConduct: false
+AddContributionDocs: true
+AddCopierCI: false
+AddGitHubTemplates: true
+AddMacToCI: false
+AddPrecommit: false
+AddWinToCI: false
+AnswerStrategy: ask
+Authors: Paul Schrimpf <paul.schrimpf@ubc.ca>
+AutoIncludeTests: true
+Indentation: 4
+JuliaMinCIVersion: latest
+JuliaMinVersion: '1.6'
+License: MIT
+LicenseCopyrightHolders: Paul Schrimpf
+PackageName: TestPackage
+PackageOwner: ubcecon
+PackageUUID: 96254b58-9ae9-56e1-980d-bc1530f12e8d
+RunJuliaNightlyOnCI: false
+UseCirrusCI: false
+_commit: v0.10.1
+_src_path: https://github.com/abelsiqueira/BestieTemplate.jl
