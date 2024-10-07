@@ -21,4 +21,4 @@ PackageUUID: 96254b58-9ae9-56e1-980d-bc1530f12e8d
 RunJuliaNightlyOnCI: false
 UseCirrusCI: false
 _commit: v0.10.1
-_src_path: https://github.com/abelsiqueira/BestieTemplate.jl
+_src_path: https://github.com/JuliaBesties/BestieTemplate.jl
